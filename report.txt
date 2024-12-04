@@ -1,0 +1,11 @@
+Logs report:
+==============
+Total requests: 6
+Unique IP count: 4
+==============
+Requests by methods:
+GET: 5
+POST: 1
+==============
+Most popular URL: 3
+/index.html
